@@ -1,0 +1,1 @@
+The txt files store the information of phase gradients measured in the experiments with different defocus patterns. The back pupil is divided into 9*9 segments. Each segment contains two values corresponding to gradients in x and y direction respectively.
